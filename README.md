@@ -4,11 +4,49 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🚀 Kid Software Engineer Extraordinaire 🚀
 ------------------------------------------
 
-Profile: 🧒 Age: 13 🌟 Experience: I've been on a 4-year learning spree, and I've come out of it with more wisdom than a library 💻 Tech Savvy: HTML, CSS, Tailwind CSS, React JS, Material-UI, Next JS, MongoDB, AWS, Agile Methodology Skills: 🌐 Web Wizardry - HTML? CSS? I speak in web languages! - Tailwind CSS magician – making websites look cool in no time. - Next JS superhero – I bring web pages to life with style. - I'm fluent in JavaScript, and I can make web pages dance and sing – all with just a few lines of code. 💃🎶 - API Development? I'm the wizard behind the web curtain! # RESTful architect – sculpting data pathways with finesse. # GraphQL maestro – orchestrating queries like a symphony. 🚀 Cloud Commander - AWS cloud explorer – Making the cloud my playground. 📊 Data Dynamo - MongoDB tamer – I handle data like a pro 🧑‍🚒 DevOps Orchestration☸ I'm exploring the DevOps arena, trying to be an IT magician who makes sure that code and infrastructure play nicely together. Becoming the bridge between 'It works on my machine' and 'It works in production.' Call me the digital puppeteer pulling the strings behind the scenes. 🎩💻🚀 Experience: 📢 Chief Code Crafter, Self-Employed (2019-Present) - Designed and built amazing websites that even adults are jealous of. - Fixed more bugs than there are candy wrappers under my bed. 🚀 AWS Space Explorer, Home Lab (2022-Present) - Learning to manage servers and cloud infrastructure like a boss. Education: 📚 School of Code - Self-taught and always learning – I read tech documents like bedtime stories. Certifications: 💻 Certified Coding Kid 🚀 AWS Cloud Adventurer ⏳ Ongoing Process References: References? Well, let's just say if I ever needed a character reference, even my pet goldfish would vouch for me. 🐟👍
+Profile:
+
+
+
+
+
+🧒 Age: 13 
+
+
+🌟 Experience: I've been on a 4-year learning spree, and I've come out of it with more wisdom than a library 
+
+
+
+💻 Tech Savvy: HTML, CSS, Tailwind CSS, React JS, Material-UI, Next JS, MongoDB, AWS, Agile Methodology
+
+
+Skills:
+
+🌐 Web Wizardry
+- HTML? CSS? I speak in web languages!
+
+
+ - Tailwind CSS magician
+
+ 
+ – making websites look cool in no time.
+ 
+ 
+ - Next JS superhero
+ -
+ -
+ -    – I bring web pages to life with style. - I'm fluent in JavaScript, and I can make web pages dance and sing – all with just a few lines of code. 💃🎶 - API Development? I'm the wizard behind the web curtain! # RESTful architect – sculpting data pathways with finesse. # GraphQL maestro – orchestrating queries like a symphony. 🚀 Cloud Commander - AWS cloud explorer – Making the cloud my playground. 📊 Data Dynamo - MongoDB tamer – I handle data like a pro 🧑‍🚒 DevOps Orchestration☸ I'm exploring the DevOps arena, trying to be an IT magician who makes sure that code and infrastructure play nicely together. Becoming the bridge between 'It works on my machine' and 'It works in production.' Call me the digital puppeteer pulling the strings behind the scenes. 🎩💻🚀 Experience: 📢 Chief Code Crafter, Self-Employed (2019-Present) - Designed and built amazing websites that even adults are jealous of. - Fixed more bugs than there are candy wrappers under my bed. 🚀 AWS Space Explorer, Home Lab (2022-Present) - Learning to manage servers and cloud infrastructure like a boss. Education: 📚 School of Code - Self-taught and always learning – I read tech documents like bedtime stories. Certifications: 💻 Certified Coding Kid 🚀 AWS Cloud Adventurer ⏳ Ongoing Process References: References? Well, let's just say if I ever needed a character reference, even my pet goldfish would vouch for me. 🐟👍
 
 *   🌍  I'm based in ?: Well I don't just think outside the box; I think outside the borders! My influence knows no boundaries; I'm practically my own global positioning system. 🛰️
+
+*   
 *   ✉️  You can contact me at [Codeminded365@gmail.com](mailto:Codeminded365@gmail.com)
-*   🧠  I'm learning Python and AI, I'm always engaged in expanding my skill set, exploring new horizons in the ever-evolving tech landscape. Learning is my secret superpower, and I'm always adding new tools to my utility belt. 🌟
+
+*   
+*   🧠  I'm learning Python and AI, I'm always engaged in expanding my skill set, exploring new horizons in the ever-evolving tech landscape. Learning is my secret superpower, and I'm always adding new tools
+*   to my utility belt. 🌟
+
+*   
 *   🤝  I'm open to collaborating on all new project opportunities<a href="https://www.github.com/whiz-techie" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/whiz-techie?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
 <p align="left">
